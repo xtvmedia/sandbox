@@ -1,0 +1,9 @@
+{
+	"name": "adf-fred-sandbox",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c609b5e7-83ba-4311-9772-57522b89cdae",
+		"tenantId": "a1a2578a-8fd3-4595-bb18-7d17df8944b0"
+	}
+}
